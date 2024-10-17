@@ -12,7 +12,7 @@
           - ⚡ Fun fact: I'm a code composer armed with my favorite playlist and a cup of coffee. <br> I tackle complex coding challenges like a weekend warrior—driven by beats and lines               of code, both perfectly in sync.
       </td>
       <td>
-        <img height="200" src="https://drive.google.com/file/d/1NkMjYqN-smsvKPhsr9mStmz5gSGiEv_7/view?usp=sharing"/>
+        <img height="200" src="https://github.com/Oh-Hoa-Yang/Oh-Hoa-Yang/blob/main/OHYPicture-WhiteBG.png"/>
       </td>
     </tr>
   </table>
