@@ -23,7 +23,7 @@
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Oh-Hoa-Yang&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Hoa-Yang&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Languages"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Oh-Hoa-Yang&theme=vue-dark&hide_border=false" alt="GitHub Streak"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Oh-Hoa-Yang&theme=vue-dark&hide_border=true" alt="GitHub Streak"/></td>
     </tr>
   </table>
 </div>
@@ -76,10 +76,5 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
-
-
-
-
-
 
 
